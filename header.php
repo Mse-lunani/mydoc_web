@@ -103,10 +103,10 @@
                                         <li class="has-sub">
                                             <a href="services.php">Services</a>
                                             <ul>
-                                                <li><a href="individuals">For Individuals</a></li>
-                                                <li><a href="organizations">For Organizations</a></li>
-                                                 <li><a href="universal">Universal Health Care</a></li>
-                                                  <li><a href="specialists">For Medical Specialists</a></li>
+                                                <li><a href="individuals.php">For Individuals</a></li>
+                                                <li><a href="organizations.php">For Organizations</a></li>
+                                                 <li><a href="universal.php">Universal Health Care</a></li>
+                                                  <li><a href="specialists.php">For Medical Specialists</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="contact">Contact Us</a></li>
@@ -131,14 +131,14 @@
                         <div class="header-cta">
                             <ul>
                                 <li>
-                                    <a href="individuals">
+                                    <a href="individuals.php">
                                         <img src="img/logo/white.png" style="width: 50px;">
                                         <span style="color:white;">For Individuals</span>
                                     </a>
 
                                 </li>
                                 <li>
-                                    <a href="organizations">
+                                    <a href="organizations.php">
                                         <img src="img/logo/white.png" style="width: 50px;">
                                         <span style="color:white;">For Organizations</span>
                                     </a>
