@@ -109,7 +109,7 @@
                                                   <li><a href="specialists.php">For Medical Specialists</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="contact">Contact Us</a></li>
+                                        <li><a href="contact.php">Contact Us</a></li>
                                     </ul>
                                 </nav>
                             </div>
