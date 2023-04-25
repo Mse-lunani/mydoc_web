@@ -1,0 +1,556 @@
+[24-Jan-2023 07:11:18 Africa/Nairobi] PHP Warning:  getimagesize(dist/img/icon.jpg): failed to open stream: No such file or directory in /home/veseninternal/public_html/doctor4u/doctor/fpdf.php on line 1238
+[24-Jan-2023 07:11:18 Africa/Nairobi] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: dist/img/icon.jpg in /home/veseninternal/public_html/doctor4u/doctor/fpdf.php:271
+Stack trace:
+#0 /home/veseninternal/public_html/doctor4u/doctor/fpdf.php(1240): FPDF->Error('Missing or inco...')
+#1 /home/veseninternal/public_html/doctor4u/doctor/fpdf.php(885): FPDF->_parsejpg('dist/img/icon.j...')
+#2 /home/veseninternal/public_html/doctor4u/doctor/create_invoice.php(23): FPDF->Image('dist/img/icon.j...', 75.000777777778, NULL, 60, 20)
+#3 {main}
+  thrown in /home/veseninternal/public_html/doctor4u/doctor/fpdf.php on line 271
+[31-Mar-2023 11:17:00 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 11:17:00 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 11:17:00 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 14:17:00 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 14:17:00 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 14:17:00 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 11:17:08 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 11:17:08 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 11:17:08 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 14:17:08 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 14:17:08 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 14:17:08 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 11:17:26 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 11:17:26 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 11:17:26 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 14:17:26 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 14:17:26 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 14:17:26 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 11:17:28 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 11:17:28 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 11:17:28 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 14:17:28 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 14:17:28 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 14:17:28 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 11:17:34 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 11:17:34 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 11:17:34 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 14:17:34 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 14:17:34 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 14:17:34 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 11:17:58 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 11:17:58 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 11:17:58 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 14:17:58 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 14:17:58 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 14:17:58 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 11:20:51 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 11:20:51 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 11:20:51 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 14:20:51 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 14:20:51 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 14:20:51 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 11:23:31 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 11:23:31 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 11:23:31 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 14:23:31 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 14:23:31 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 14:23:31 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 11:39:05 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 11:39:05 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 11:39:05 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 14:39:05 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 14:39:05 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 14:39:05 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 11:39:12 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 11:39:12 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 11:39:12 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 14:39:12 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 14:39:12 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 14:39:12 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 12:15:30 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 12:15:30 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 12:15:30 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 15:15:30 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 15:15:30 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 15:15:30 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 12:15:41 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 12:15:41 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 12:15:41 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 15:15:41 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 15:15:41 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 15:15:41 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 12:15:48 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 12:15:48 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 12:15:48 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 15:15:48 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 15:15:48 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 15:15:48 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 15:15:48 Africa/Nairobi] PHP Warning:  Undefined variable $page in /home/mydaktari/mydoc.my-daktari.com/header.php on line 16
+[31-Mar-2023 12:15:50 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 12:15:50 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 12:15:50 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 15:15:50 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 15:15:50 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 15:15:50 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 12:15:52 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 12:15:52 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 12:15:52 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 15:15:52 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 15:15:52 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 15:15:52 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 15:15:52 Africa/Nairobi] PHP Warning:  Undefined variable $page in /home/mydaktari/mydoc.my-daktari.com/header.php on line 16
+[31-Mar-2023 12:15:54 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 12:15:54 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 12:15:54 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 15:15:54 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 15:15:54 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 15:15:54 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 12:16:22 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 12:16:22 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 12:16:22 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 15:16:22 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 15:16:22 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 15:16:22 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 12:29:03 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 12:29:03 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 12:29:03 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 15:29:03 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 15:29:03 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 15:29:03 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 12:29:27 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 12:29:27 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 12:29:27 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 15:29:27 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 15:29:27 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 15:29:27 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 13:15:03 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 13:15:03 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 13:15:03 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 16:15:03 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 16:15:03 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 16:15:03 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 13:15:08 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 13:15:08 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 13:15:08 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 16:15:08 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 16:15:08 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 16:15:08 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 13:15:54 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 13:15:54 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 13:15:54 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 16:15:54 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 16:15:54 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 16:15:54 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 13:15:57 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 13:15:57 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 13:15:57 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 16:15:57 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 16:15:57 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 16:15:57 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 14:16:37 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 14:16:37 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 14:16:37 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 17:16:38 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 17:16:38 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 17:16:38 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 14:16:39 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 14:16:39 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 14:16:39 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 17:16:39 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 17:16:39 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 17:16:39 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 14:16:55 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 14:16:55 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 14:16:55 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 17:16:55 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 17:16:55 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 17:16:55 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 14:16:56 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 14:16:56 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 14:16:56 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 17:16:56 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 17:16:56 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 17:16:56 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 17:12:29 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 17:12:29 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 17:12:29 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 20:12:29 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 20:12:29 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 20:12:29 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 19:17:06 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 19:17:06 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 19:17:06 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 22:17:06 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[31-Mar-2023 22:17:06 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[31-Mar-2023 22:17:06 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[31-Mar-2023 23:18:35 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 23:18:35 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 23:18:35 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[31-Mar-2023 23:18:35 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[31-Mar-2023 23:18:35 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[31-Mar-2023 23:18:35 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[01-Apr-2023 02:18:35 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[01-Apr-2023 02:18:35 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[01-Apr-2023 02:18:35 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[01-Apr-2023 02:18:35 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[01-Apr-2023 02:18:35 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[01-Apr-2023 02:18:35 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[01-Apr-2023 02:21:40 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[01-Apr-2023 02:21:40 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[01-Apr-2023 02:21:40 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[01-Apr-2023 05:21:40 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[01-Apr-2023 05:21:40 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[01-Apr-2023 05:21:40 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[01-Apr-2023 11:28:26 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[01-Apr-2023 11:28:26 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[01-Apr-2023 11:28:26 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[01-Apr-2023 14:28:26 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[01-Apr-2023 14:28:26 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[01-Apr-2023 14:28:26 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[01-Apr-2023 11:28:29 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[01-Apr-2023 11:28:29 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[01-Apr-2023 11:28:29 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[01-Apr-2023 14:28:29 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[01-Apr-2023 14:28:29 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[01-Apr-2023 14:28:29 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[01-Apr-2023 11:53:11 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[01-Apr-2023 11:53:11 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[01-Apr-2023 11:53:11 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[01-Apr-2023 14:53:11 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[01-Apr-2023 14:53:11 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[01-Apr-2023 14:53:11 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[01-Apr-2023 11:53:17 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[01-Apr-2023 11:53:17 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[01-Apr-2023 11:53:17 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[01-Apr-2023 14:53:17 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[01-Apr-2023 14:53:17 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[01-Apr-2023 14:53:17 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[01-Apr-2023 23:04:21 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[01-Apr-2023 23:04:21 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[01-Apr-2023 23:04:21 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[02-Apr-2023 02:04:21 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[02-Apr-2023 02:04:21 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[02-Apr-2023 02:04:21 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[02-Apr-2023 03:41:22 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[02-Apr-2023 03:41:22 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[02-Apr-2023 03:41:22 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[02-Apr-2023 06:41:22 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[02-Apr-2023 06:41:22 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[02-Apr-2023 06:41:22 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[02-Apr-2023 05:43:07 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[02-Apr-2023 05:43:07 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[02-Apr-2023 05:43:07 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[02-Apr-2023 08:43:07 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[02-Apr-2023 08:43:07 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[02-Apr-2023 08:43:07 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[02-Apr-2023 06:39:06 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[02-Apr-2023 06:39:06 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[02-Apr-2023 06:39:06 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[02-Apr-2023 09:39:06 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[02-Apr-2023 09:39:06 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[02-Apr-2023 09:39:06 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[04-Apr-2023 03:01:20 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[04-Apr-2023 03:01:20 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[04-Apr-2023 03:01:20 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[04-Apr-2023 06:01:20 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[04-Apr-2023 06:01:20 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[04-Apr-2023 06:01:20 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[04-Apr-2023 05:01:55 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[04-Apr-2023 05:01:55 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[04-Apr-2023 05:01:55 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[04-Apr-2023 08:01:55 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[04-Apr-2023 08:01:55 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[04-Apr-2023 08:01:55 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[04-Apr-2023 17:49:42 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[04-Apr-2023 17:49:42 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[04-Apr-2023 17:49:42 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[04-Apr-2023 20:49:42 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[04-Apr-2023 20:49:42 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[04-Apr-2023 20:49:42 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[04-Apr-2023 17:57:17 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[04-Apr-2023 17:57:17 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[04-Apr-2023 17:57:17 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[04-Apr-2023 20:57:17 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[04-Apr-2023 20:57:17 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[04-Apr-2023 20:57:17 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[05-Apr-2023 10:56:58 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[05-Apr-2023 10:56:58 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[05-Apr-2023 10:56:58 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[05-Apr-2023 13:56:58 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[05-Apr-2023 13:56:58 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[05-Apr-2023 13:56:58 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[05-Apr-2023 13:43:18 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[05-Apr-2023 13:43:18 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[05-Apr-2023 13:43:18 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[05-Apr-2023 16:43:18 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[05-Apr-2023 16:43:18 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[05-Apr-2023 16:43:18 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[05-Apr-2023 22:54:04 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[05-Apr-2023 22:54:04 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[05-Apr-2023 22:54:04 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[06-Apr-2023 01:54:04 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[06-Apr-2023 01:54:04 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[06-Apr-2023 01:54:04 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[06-Apr-2023 14:19:52 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[06-Apr-2023 14:19:52 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[06-Apr-2023 14:19:52 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[06-Apr-2023 17:19:52 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[06-Apr-2023 17:19:52 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[06-Apr-2023 17:19:52 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[06-Apr-2023 15:14:07 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[06-Apr-2023 15:14:07 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[06-Apr-2023 15:14:07 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[06-Apr-2023 18:14:07 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[06-Apr-2023 18:14:07 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[06-Apr-2023 18:14:07 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[06-Apr-2023 19:57:22 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[06-Apr-2023 19:57:22 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[06-Apr-2023 19:57:22 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[06-Apr-2023 22:57:22 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[06-Apr-2023 22:57:22 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[06-Apr-2023 22:57:22 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[07-Apr-2023 17:32:03 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[07-Apr-2023 17:32:03 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[07-Apr-2023 17:32:03 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[07-Apr-2023 20:32:03 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[07-Apr-2023 20:32:03 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[07-Apr-2023 20:32:03 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[07-Apr-2023 18:30:49 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[07-Apr-2023 18:30:49 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[07-Apr-2023 18:30:49 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[07-Apr-2023 21:30:49 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[07-Apr-2023 21:30:49 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[07-Apr-2023 21:30:49 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[07-Apr-2023 19:37:08 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[07-Apr-2023 19:37:08 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[07-Apr-2023 19:37:08 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[07-Apr-2023 22:37:08 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[07-Apr-2023 22:37:08 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[07-Apr-2023 22:37:08 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[07-Apr-2023 19:37:26 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[07-Apr-2023 19:37:26 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[07-Apr-2023 19:37:26 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[07-Apr-2023 22:37:26 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[07-Apr-2023 22:37:26 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[07-Apr-2023 22:37:26 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[08-Apr-2023 03:52:05 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[08-Apr-2023 03:52:05 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[08-Apr-2023 03:52:05 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[08-Apr-2023 06:52:05 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[08-Apr-2023 06:52:05 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[08-Apr-2023 06:52:05 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[08-Apr-2023 04:35:58 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[08-Apr-2023 04:35:58 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[08-Apr-2023 04:35:58 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[08-Apr-2023 07:35:58 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[08-Apr-2023 07:35:58 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[08-Apr-2023 07:35:58 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[10-Apr-2023 09:40:09 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[10-Apr-2023 09:40:09 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[10-Apr-2023 09:40:09 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[10-Apr-2023 12:40:09 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[10-Apr-2023 12:40:09 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[10-Apr-2023 12:40:09 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[10-Apr-2023 13:43:08 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[10-Apr-2023 13:43:08 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[10-Apr-2023 13:43:08 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[10-Apr-2023 16:43:08 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[10-Apr-2023 16:43:08 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[10-Apr-2023 16:43:08 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[10-Apr-2023 21:20:31 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[10-Apr-2023 21:20:31 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[10-Apr-2023 21:20:31 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[11-Apr-2023 00:20:31 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[11-Apr-2023 00:20:31 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[11-Apr-2023 00:20:31 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[10-Apr-2023 23:42:58 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[10-Apr-2023 23:42:58 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[10-Apr-2023 23:42:58 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[11-Apr-2023 02:42:58 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[11-Apr-2023 02:42:58 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[11-Apr-2023 02:42:58 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[11-Apr-2023 20:23:15 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[11-Apr-2023 20:23:15 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[11-Apr-2023 20:23:15 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[11-Apr-2023 23:23:15 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[11-Apr-2023 23:23:15 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[11-Apr-2023 23:23:15 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[11-Apr-2023 22:57:16 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[11-Apr-2023 22:57:16 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[11-Apr-2023 22:57:16 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[12-Apr-2023 01:57:16 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[12-Apr-2023 01:57:16 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[12-Apr-2023 01:57:16 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[11-Apr-2023 23:09:12 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[11-Apr-2023 23:09:12 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[11-Apr-2023 23:09:12 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[12-Apr-2023 02:09:12 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[12-Apr-2023 02:09:12 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[12-Apr-2023 02:09:12 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[11-Apr-2023 23:16:05 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[11-Apr-2023 23:16:05 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[11-Apr-2023 23:16:05 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[12-Apr-2023 02:16:05 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[12-Apr-2023 02:16:05 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[12-Apr-2023 02:16:05 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[12-Apr-2023 10:46:25 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[12-Apr-2023 10:46:25 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[12-Apr-2023 10:46:25 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[12-Apr-2023 13:46:25 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[12-Apr-2023 13:46:25 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[12-Apr-2023 13:46:25 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[14-Apr-2023 07:53:14 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[14-Apr-2023 07:53:14 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[14-Apr-2023 07:53:14 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[14-Apr-2023 10:53:14 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[14-Apr-2023 10:53:14 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[14-Apr-2023 10:53:14 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[14-Apr-2023 09:28:25 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[14-Apr-2023 09:28:25 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[14-Apr-2023 09:28:25 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[14-Apr-2023 12:28:25 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[14-Apr-2023 12:28:25 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[14-Apr-2023 12:28:25 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[14-Apr-2023 23:00:12 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[14-Apr-2023 23:00:12 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[14-Apr-2023 23:00:12 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[15-Apr-2023 02:00:12 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[15-Apr-2023 02:00:12 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[15-Apr-2023 02:00:12 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[15-Apr-2023 01:20:52 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[15-Apr-2023 01:20:52 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[15-Apr-2023 01:20:52 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[15-Apr-2023 04:20:52 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[15-Apr-2023 04:20:52 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[15-Apr-2023 04:20:52 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[15-Apr-2023 09:22:34 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[15-Apr-2023 09:22:34 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[15-Apr-2023 09:22:34 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[15-Apr-2023 12:22:34 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[15-Apr-2023 12:22:34 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[15-Apr-2023 12:22:34 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[15-Apr-2023 11:15:22 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[15-Apr-2023 11:15:22 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[15-Apr-2023 11:15:22 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[15-Apr-2023 14:15:22 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[15-Apr-2023 14:15:22 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[15-Apr-2023 14:15:22 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[15-Apr-2023 12:33:23 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[15-Apr-2023 12:33:23 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[15-Apr-2023 12:33:23 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[15-Apr-2023 15:33:23 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[15-Apr-2023 15:33:23 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[15-Apr-2023 15:33:23 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[15-Apr-2023 16:38:27 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[15-Apr-2023 16:38:27 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[15-Apr-2023 16:38:27 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[15-Apr-2023 19:38:27 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[15-Apr-2023 19:38:27 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[15-Apr-2023 19:38:27 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[15-Apr-2023 22:44:26 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[15-Apr-2023 22:44:26 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[15-Apr-2023 22:44:26 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[16-Apr-2023 01:44:26 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[16-Apr-2023 01:44:26 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[16-Apr-2023 01:44:26 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[16-Apr-2023 04:30:27 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[16-Apr-2023 04:30:27 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[16-Apr-2023 04:30:27 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[16-Apr-2023 07:30:27 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[16-Apr-2023 07:30:27 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[16-Apr-2023 07:30:27 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[16-Apr-2023 06:02:20 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[16-Apr-2023 06:02:20 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[16-Apr-2023 06:02:20 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[16-Apr-2023 09:02:20 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[16-Apr-2023 09:02:20 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[16-Apr-2023 09:02:20 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[16-Apr-2023 12:28:02 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[16-Apr-2023 12:28:02 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[16-Apr-2023 12:28:02 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[16-Apr-2023 15:28:02 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[16-Apr-2023 15:28:02 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[16-Apr-2023 15:28:02 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[16-Apr-2023 12:38:34 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[16-Apr-2023 12:38:34 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[16-Apr-2023 12:38:34 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[16-Apr-2023 15:38:34 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[16-Apr-2023 15:38:34 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[16-Apr-2023 15:38:34 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[17-Apr-2023 10:30:16 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[17-Apr-2023 10:30:16 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[17-Apr-2023 10:30:16 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[17-Apr-2023 13:30:16 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[17-Apr-2023 13:30:16 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[17-Apr-2023 13:30:16 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[17-Apr-2023 12:13:01 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[17-Apr-2023 12:13:01 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[17-Apr-2023 12:13:01 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[17-Apr-2023 15:13:01 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[17-Apr-2023 15:13:01 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[17-Apr-2023 15:13:01 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[18-Apr-2023 18:55:37 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[18-Apr-2023 18:55:37 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[18-Apr-2023 18:55:37 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[18-Apr-2023 21:55:37 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[18-Apr-2023 21:55:37 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[18-Apr-2023 21:55:37 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[19-Apr-2023 03:56:04 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[19-Apr-2023 03:56:04 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[19-Apr-2023 03:56:04 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[19-Apr-2023 06:56:04 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[19-Apr-2023 06:56:04 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[19-Apr-2023 06:56:04 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[19-Apr-2023 11:47:36 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[19-Apr-2023 11:47:36 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[19-Apr-2023 11:47:36 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[19-Apr-2023 14:47:36 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[19-Apr-2023 14:47:36 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[19-Apr-2023 14:47:36 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[19-Apr-2023 12:13:17 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[19-Apr-2023 12:13:17 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[19-Apr-2023 12:13:17 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[19-Apr-2023 15:13:17 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[19-Apr-2023 15:13:17 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[19-Apr-2023 15:13:17 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[20-Apr-2023 09:37:10 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[20-Apr-2023 09:37:10 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[20-Apr-2023 09:37:10 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[20-Apr-2023 12:37:10 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[20-Apr-2023 12:37:10 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[20-Apr-2023 12:37:10 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[21-Apr-2023 05:03:30 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[21-Apr-2023 05:03:30 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[21-Apr-2023 05:03:30 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[21-Apr-2023 08:03:30 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[21-Apr-2023 08:03:30 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[21-Apr-2023 08:03:30 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[21-Apr-2023 16:51:07 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[21-Apr-2023 16:51:07 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[21-Apr-2023 16:51:07 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[21-Apr-2023 19:51:07 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[21-Apr-2023 19:51:07 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[21-Apr-2023 19:51:07 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[21-Apr-2023 17:54:36 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[21-Apr-2023 17:54:36 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[21-Apr-2023 17:54:36 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[21-Apr-2023 20:54:36 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[21-Apr-2023 20:54:36 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[21-Apr-2023 20:54:36 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[21-Apr-2023 19:20:23 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[21-Apr-2023 19:20:23 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[21-Apr-2023 19:20:23 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[21-Apr-2023 22:20:23 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[21-Apr-2023 22:20:23 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[21-Apr-2023 22:20:23 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[22-Apr-2023 08:59:44 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[22-Apr-2023 08:59:44 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[22-Apr-2023 08:59:44 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[22-Apr-2023 11:59:44 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[22-Apr-2023 11:59:44 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[22-Apr-2023 11:59:44 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[25-Apr-2023 00:43:39 UTC] PHP Deprecated:  Required parameter $cols follows optional parameter $col in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 119
+[25-Apr-2023 00:43:39 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 168
+[25-Apr-2023 00:43:39 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 196
+[25-Apr-2023 03:43:39 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
+[25-Apr-2023 03:43:39 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
+[25-Apr-2023 03:43:39 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
