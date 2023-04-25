@@ -10,7 +10,7 @@ $date = date('Y-m-d H:i:s');
 
 function connect()
 {
-   return mysqli_connect("mydaktari-server.mysql.database.azure.com","npdqvrjibe","JO5KR148WP1W4XLB$","mydaktari-database");
+   return mysqli_connect("localhost","npdqvrjibe","JO5KR148WP1W4XLB$","mydaktari-database");
 }
 
 function security($name)

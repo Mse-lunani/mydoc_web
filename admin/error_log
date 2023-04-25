@@ -554,3 +554,84 @@ Stack trace:
 [25-Apr-2023 03:43:39 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 460
 [25-Apr-2023 03:43:39 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/mydaktari/mydoc.my-daktari.com/model/operations.php on line 461
 [25-Apr-2023 03:43:39 Africa/Nairobi] PHP Warning:  Undefined array key "from" in /home/mydaktari/mydoc.my-daktari.com/model/read.php on line 4
+[25-Apr-2023 07:32:32 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 460
+[25-Apr-2023 07:32:32 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 461
+[25-Apr-2023 07:32:32 Africa/Nairobi] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for mydaktari-server.mysql.database.azure.com failed: Name or service not known in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 13
+[25-Apr-2023 07:32:32 Africa/Nairobi] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for mydaktari-server.mysql.database.azure.com failed: Name or service not known in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php:13
+Stack trace:
+#0 /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php(13): mysqli_connect()
+#1 /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/test.php(3): connect()
+#2 {main}
+  thrown in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 13
+[25-Apr-2023 07:32:53 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 460
+[25-Apr-2023 07:32:53 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 461
+[25-Apr-2023 07:32:54 Africa/Nairobi] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for mydaktari-server.mysql.database.azure.com failed: Name or service not known in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 13
+[25-Apr-2023 07:32:54 Africa/Nairobi] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for mydaktari-server.mysql.database.azure.com failed: Name or service not known in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php:13
+Stack trace:
+#0 /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php(13): mysqli_connect()
+#1 /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/test.php(3): connect()
+#2 {main}
+  thrown in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 13
+[25-Apr-2023 07:32:54 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 460
+[25-Apr-2023 07:32:54 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 461
+[25-Apr-2023 07:32:54 Africa/Nairobi] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for mydaktari-server.mysql.database.azure.com failed: Name or service not known in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 13
+[25-Apr-2023 07:32:54 Africa/Nairobi] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for mydaktari-server.mysql.database.azure.com failed: Name or service not known in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php:13
+Stack trace:
+#0 /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php(13): mysqli_connect()
+#1 /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/test.php(3): connect()
+#2 {main}
+  thrown in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 13
+[25-Apr-2023 07:32:55 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 460
+[25-Apr-2023 07:32:55 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 461
+[25-Apr-2023 07:32:55 Africa/Nairobi] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for mydaktari-server.mysql.database.azure.com failed: Name or service not known in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 13
+[25-Apr-2023 07:32:55 Africa/Nairobi] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for mydaktari-server.mysql.database.azure.com failed: Name or service not known in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php:13
+Stack trace:
+#0 /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php(13): mysqli_connect()
+#1 /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/test.php(3): connect()
+#2 {main}
+  thrown in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 13
+[25-Apr-2023 07:32:55 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 460
+[25-Apr-2023 07:32:55 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 461
+[25-Apr-2023 07:32:55 Africa/Nairobi] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for mydaktari-server.mysql.database.azure.com failed: Name or service not known in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 13
+[25-Apr-2023 07:32:55 Africa/Nairobi] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for mydaktari-server.mysql.database.azure.com failed: Name or service not known in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php:13
+Stack trace:
+#0 /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php(13): mysqli_connect()
+#1 /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/test.php(3): connect()
+#2 {main}
+  thrown in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 13
+[25-Apr-2023 07:32:55 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 460
+[25-Apr-2023 07:32:55 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 461
+[25-Apr-2023 07:32:55 Africa/Nairobi] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for mydaktari-server.mysql.database.azure.com failed: Name or service not known in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 13
+[25-Apr-2023 07:32:55 Africa/Nairobi] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for mydaktari-server.mysql.database.azure.com failed: Name or service not known in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php:13
+Stack trace:
+#0 /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php(13): mysqli_connect()
+#1 /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/test.php(3): connect()
+#2 {main}
+  thrown in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 13
+[25-Apr-2023 07:32:55 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 460
+[25-Apr-2023 07:32:55 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 461
+[25-Apr-2023 07:32:55 Africa/Nairobi] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for mydaktari-server.mysql.database.azure.com failed: Name or service not known in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 13
+[25-Apr-2023 07:32:55 Africa/Nairobi] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for mydaktari-server.mysql.database.azure.com failed: Name or service not known in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php:13
+Stack trace:
+#0 /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php(13): mysqli_connect()
+#1 /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/test.php(3): connect()
+#2 {main}
+  thrown in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 13
+[25-Apr-2023 07:33:09 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 460
+[25-Apr-2023 07:33:09 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 461
+[25-Apr-2023 07:33:09 Africa/Nairobi] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for mydaktari-server.mysql.database.azure.com failed: Name or service not known in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 13
+[25-Apr-2023 07:33:09 Africa/Nairobi] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for mydaktari-server.mysql.database.azure.com failed: Name or service not known in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php:13
+Stack trace:
+#0 /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php(13): mysqli_connect()
+#1 /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/test.php(3): connect()
+#2 {main}
+  thrown in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 13
+[25-Apr-2023 07:36:04 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 460
+[25-Apr-2023 07:36:04 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 461
+[25-Apr-2023 07:36:04 Africa/Nairobi] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for mydaktari-server.mysql.database.azure.com failed: Name or service not known in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 13
+[25-Apr-2023 07:36:04 Africa/Nairobi] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for mydaktari-server.mysql.database.azure.com failed: Name or service not known in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php:13
+Stack trace:
+#0 /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php(13): mysqli_connect()
+#1 /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/test.php(6): connect()
+#2 {main}
+  thrown in /home/se-lunani/lampstack-8.1.7-0/apache2/htdocs/mydoc_web/admin/model/operations.php on line 13
